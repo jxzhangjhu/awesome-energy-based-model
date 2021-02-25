@@ -18,7 +18,35 @@ A list of awesome resources for understanding and applying normalizing flows (NF
 
    >[Github Code](https://github.com/wgrathwohl/VERA)
 
-3. 
+3. NeurIPS 2019 - [Implicit Generation and Modeling with Energy-Based Models](https://arxiv.org/abs/1903.08689) by YiLun Du and Igor Mordatch
+
+   >[Github Code](https://github.com/openai/ebm_code_release)
+
+4. ICLR 2020 - [Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One](https://arxiv.org/abs/1912.03263) by Will Grathwohl et al.
+
+   >[Github Code](https://github.com/wgrathwohl/JEM)
+
+5. ICML 2020  - [Learning the Stein Discrepancy for Training and Evaluating Energy-Based Models without Sampling](https://arxiv.org/abs/2002.05616) by Will Grathwohl et al.
+
+   >[Github Code](https://github.com/wgrathwohl/LSD)
+
+6. CVPR 2020 - [Flow Contrastive Estimation of Energy-Based Models](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gao_Flow_Contrastive_Estimation_of_Energy-Based_Models_CVPR_2020_paper.pdf) by Ruiqi Gao et al.
+
+   >[Github Code: not available]
+
+7. ICLR 2021 - [Learning Energy-Based Models by Diffusion Recovery Likelihood](http://www.stat.ucla.edu/~ruiqigao/drl/paper.pdf)
+
+   >[Github Code: not available]
+
+8. Arxiv 2021 - [How to Train Your Energy-Based Models](https://arxiv.org/abs/2101.03288)
+
+   >[Github Code: not available]
+
+9. ICLR 2021 - [VAEBM: A Symbiosis between Variational Autoencoders and Energy-based Models](https://arxiv.org/abs/2010.00654)
+
+   >[Github Code: not available]
+
+10. 
 
 <!-- 2. Oct 30, 2014 - [Non-linear Independent Components Estimation](https://arxiv.org/abs/1410.8516) by Laurent Dinh, David Krueger, Yoshua Bengio.
 
