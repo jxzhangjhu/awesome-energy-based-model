@@ -10,7 +10,7 @@ A list of awesome resources for understanding and applying normalizing flows (NF
 
 1. ICLR 2021 - [Generalized Energy Based Models](https://arxiv.org/abs/2003.05033) by Michael Arbel et. al.
 
-  [Github Code](https://github.com/MichaelArbel/GeneralizedEBM)
+   >[Github Code](https://github.com/MichaelArbel/GeneralizedEBM)
 
    > We introduce the Generalized Energy Based Model (GEBM) for generative modelling. These models combine two trained components: a base distribution (generally an implicit model), which can learn the support of data with low intrinsic dimension in a high dimensional space; and an energy function, to refine the probability mass on the learned support. Both the energy function and base jointly constitute the final model, unlike GANs, which retain only the base distribution (the "generator"). GEBMs are trained by alternating between learning the energy and the base. We show that both training stages are well-defined: the energy is learned by maximising a generalized likelihood, and the resulting energy-based loss provides informative gradients for learning the base. Samples from the posterior on the latent space of the trained model can be obtained via MCMC, thus finding regions in this space that produce better quality samples. Empirically, the GEBM samples on image-generation tasks are of much better quality than those from the learned generator alone, indicating that all else being equal, the GEBM will outperform a GAN of the same complexity. When using normalizing flows as base measures, GEBMs succeed on density modelling tasks, returning comparable performance to direct maximum likelihood of the same networks.
 
