@@ -34,11 +34,11 @@ A list of awesome resources for understanding and applying normalizing flows (NF
 
    >[Github Code: not available]
 
-7. ICLR 2021 - [Learning Energy-Based Models by Diffusion Recovery Likelihood](http://www.stat.ucla.edu/~ruiqigao/drl/paper.pdf)
+7. ICLR 2021 - [Learning Energy-Based Models by Diffusion Recovery Likelihood](http://www.stat.ucla.edu/~ruiqigao/drl/paper.pdf) by Ruiqi Gao et al.
 
    >[Github Code: not available]
 
-8. Arxiv 2021 - [How to Train Your Energy-Based Models](https://arxiv.org/abs/2101.03288)
+8. Arxiv 2021 - [How to Train Your Energy-Based Models](https://arxiv.org/abs/2101.03288) by 
 
    >[Github Code: not available]
 
@@ -46,7 +46,7 @@ A list of awesome resources for understanding and applying normalizing flows (NF
 
    >[Github Code: not available]
 
-10. 
+10.
 
 <!-- 2. Oct 30, 2014 - [Non-linear Independent Components Estimation](https://arxiv.org/abs/1410.8516) by Laurent Dinh, David Krueger, Yoshua Bengio.
 
